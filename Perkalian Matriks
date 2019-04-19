@@ -1,0 +1,45 @@
+#include<iostream>
+
+using namespace std;
+
+int main ()
+{
+    int matriks1[3][2];
+    int matriks2[2][3];
+    int perkalian[3][3];
+    int baris,kolom;
+
+    cout<<" Matriks A :"<<endl;
+    for (baris=0; baris<3; baris++)
+    {
+        for (kolom=0; kolom<2; kolom++)
+        {
+            cout<<"Masukan Angka ["<<baris<<"]["<<kolom<<"] = ";
+            cin>>matriks1[baris][kolom];
+        }
+        cout<<endl;
+    }
+
+    cout<<" Matriks B :"<<endl;
+    for (baris=0; baris<2; baris++)
+    {
+        for (kolom=0; kolom<3; kolom++)
+        {
+            cout<<"Masukan Angka ["<<baris<<"]["<<kolom<<"] = ";
+            cin>>matriks2[baris][kolom];
+        }
+        cout<<endl;
+    }
+
+    cout<<"Hasil Perkalian :"<<endl;
+    for (baris=0; baris<3; baris++)
+    {
+        for (kolom=0; kolom<3; kolom++)
+        {
+            perkalian[3][3]=matriks1[baris][kolom]*matriks2[baris][kolom];
+            cout<<perkalian[3][3]<<"\t";
+        }
+        cout<<endl;
+    }
+
+}
