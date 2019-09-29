@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1545586842 source:e:\m4\m4\baru.cpp
+	<iostream>
+	<string.h>
+	<ctype.h>
+	<stdio.h>
+
+1545881600 source:e:\m4\m4\atur.cpp
+	"header.h"
+
+1545587484 e:\m4\m4\atur.h
+
+1545588154 e:\m4\m4\farid.h
+
+1545881600 source:g:\m4\m4\atur.cpp
+	"header.h"
+
+1545722148 g:\m4\m4\farid.h
+	<ctype.h>
+	<stdio.h>
+	<conio.h>
+	"farid.h"
+
+1545971730 g:\m4\m4\header.h
+	<iostream>
+	<string.h>
+	<ctype.h>
+	<stdio.h>
+	<conio.h>
+
+1546003770 e:\m4\m4\header.h
+	<iostream>
+	<string.h>
+	<ctype.h>
+	<stdio.h>
+	<conio.h>
+
+1545881600 source:e:\anime\m4\atur.cpp
+	"header.h"
+
+1546003770 e:\anime\m4\header.h
+	<iostream>
+	<string.h>
+	<ctype.h>
+	<stdio.h>
+	<conio.h>
+
+1546500527 source:d:\teknik informatika 2017\semester 3\pemrograman tersruktur\praktikum\modul 4\m4\atur.cpp
+	"header.h"
+
+1546499931 d:\teknik informatika 2017\semester 3\pemrograman tersruktur\praktikum\modul 4\m4\header.h
+	<iostream>
+	<string.h>
+	<ctype.h>
+	<stdio.h>
+

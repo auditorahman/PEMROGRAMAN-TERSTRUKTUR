@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1545986080 source:d:\teknik informatika 2017\semester 3\pemrograman tersruktur\praktikum\ppa uas\main.cpp
+	"ppa uas.h"
+
+1545986294 d:\teknik informatika 2017\semester 3\pemrograman tersruktur\praktikum\ppa uas\ppa uas.h
+	<iostream>
+
