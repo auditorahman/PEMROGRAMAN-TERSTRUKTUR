@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1541401489 source:d:\teknik informatika 2017\semester 3\pemrograman tersruktur\praktikum\tambahan modul 1\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<cstdlib>
+
+1541401489 source:d:\teknik informatika 2017\semester 3\pemrograman tersruktur\praktikum\modul 1\tambahan modul 1\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<cstdlib>
+
