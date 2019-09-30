@@ -1,2 +1,2 @@
-# PEMROGRAMAN-TERSTRUKTUR
-Tugas praktikum semester 1 (Program C++ Dasar)
+# Semester 1
+Tugas praktikum (Program C++ Dasar)
